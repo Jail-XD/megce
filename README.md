@@ -8,6 +8,7 @@ $ pip install requests mechanize
 $ pip install rich bs4                    
 $ pip install --upgrade pip             
 $ git clone https://github.com/Jail-XD/megce           
-$ ls ( L kecil )                       
+$ ls ( L kecil )                                
+$ git pull                       
 $ cd megce                               
 $ python crack2.py
